@@ -1,3 +1,3 @@
 # Tanvi
 This is my first git repository...
-Author - Tanvi Singhal 
+Author - Tanvi Singhal(baniya) 
